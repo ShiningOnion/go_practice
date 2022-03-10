@@ -2,11 +2,13 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/ShiningOnion/go_practice/p0002_golang_package/controller"
 )
 
 func main() {
-	fmt.Println("一天就學會 Go 語言")
+	println("practice package from github")
 
-	hi := controller.HelloWorld("appleboy")
+	hi := controller.HelloWorld("Leo")
 	fmt.Println(hi)
 }
