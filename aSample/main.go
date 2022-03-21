@@ -1,11 +1,7 @@
 package main
 
-import "fmt"
+import "go_practice/aSample/hello"
 
 func main() {
-	println(HelloWorld("Leo"))
-}
-
-func HelloWorld(name string) string {
-	return fmt.Sprintf("Hello, %s ", name)
+	println(hello.Hello())
 }
