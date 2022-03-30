@@ -14,7 +14,7 @@
 
 package main
 
-import "go_practice/p0009_command-line-tool/cobra/cmd"
+import "go_practice/self/p0009_command-line-tool/cobra/cmd"
 
 func main() {
 	cmd.Execute()

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go_practice/p0007_errors/2.custom-error/errorSample"
+	"go_practice/self/p0007_errors/2.custom-error/errorSample"
 )
 
 func checkUserNameExist(username string) (bool, error) {

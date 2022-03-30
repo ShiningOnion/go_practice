@@ -1,7 +1,9 @@
 package main
 
-import "calc"
-import "fmt"
+import (
+	"calc"
+	"fmt"
+)
 
 func main() {
 	fmt.Println("Cashier Application")

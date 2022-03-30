@@ -1,6 +1,6 @@
 package main
 
-import "go_practice/p0003_switch/switchSample"
+import "go_practice/self/p0003_switch/switchSample"
 
 func main() {
 	switchSample.CheckSwitchUse()

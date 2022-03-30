@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go_practice/p0011_cross-build/hello"
-	"go_practice/p0011_cross-build/hello2"
-	"go_practice/p0011_cross-build/hello3"
+	"go_practice/self/p0011_cross-build/hello"
+	"go_practice/self/p0011_cross-build/hello2"
+	"go_practice/self/p0011_cross-build/hello3"
 )
 
 func main() {

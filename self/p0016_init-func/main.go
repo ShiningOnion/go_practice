@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	_ "go_practice/p0016_init-func/bar"
-	_ "go_practice/p0016_init-func/foo"
+	_ "go_practice/self/p0016_init-func/bar"
+	_ "go_practice/self/p0016_init-func/foo"
 )
 
 var global = convert()

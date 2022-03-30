@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go_practice/p0005_interface/test_1/lexus"
-	"go_practice/p0005_interface/test_1/toyota"
+	"go_practice/self/p0005_interface/test_1/lexus"
+	"go_practice/self/p0005_interface/test_1/toyota"
 )
 
 type car interface {
